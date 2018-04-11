@@ -1,3 +1,5 @@
+<center>
+<div>
 <h1>Boletin 23</h1>
 
 <h3>Ejercicio Boletin 23 de programacion.</h3>
@@ -20,3 +22,5 @@ Ejercicio 4
 <img src="https://image.ibb.co/dzELpx/5.png" alt="5" border="0">
 <br>
 <img src="https://image.ibb.co/fKuybc/6.png" alt="6" border="0">
+</div>
+</center>
