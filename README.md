@@ -17,6 +17,6 @@ Ejercicio 3
 <br>
 Ejercicio 4
 <br>
-<img src="https://image.ibb.co/fKuybc/6.png" alt="6" border="0">
-<br>
 <img src="https://image.ibb.co/dzELpx/5.png" alt="5" border="0">
+<br>
+<img src="https://image.ibb.co/fKuybc/6.png" alt="6" border="0">
